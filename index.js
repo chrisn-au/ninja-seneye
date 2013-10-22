@@ -28,8 +28,8 @@ util.inherits(seneye,stream);
  * @fires config - Emit this when you wish to send config data back to the Ninja Platform
  */
  
-var user = 'markaswift@gmail.com'
-var password = '123456'
+var user = 'stuff@gmail.com'
+var password = '7654321'
 function seneye(opts,app) {
 
   var self = this;
