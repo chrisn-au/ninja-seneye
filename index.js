@@ -59,10 +59,8 @@ function seneye(opts,app) {
             });
       }
    
-     if (self.first) {
-               seneye_comms.listDevices(queryDevices);
-               self.first = false;
-     }          
+     seneye_comms.listDevices(queryDevices);
+                   
   });
 };
 
