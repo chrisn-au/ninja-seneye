@@ -1,0 +1,15 @@
+{
+  "name": "seneye",
+  "version": "0.0.1",
+  "description": "Seneye tanks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "dependencies" : {
+     "date-utils" : "*"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
